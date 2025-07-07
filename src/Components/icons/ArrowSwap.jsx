@@ -1,4 +1,4 @@
-export default function ArrowSwap({ width = 1.5, className, alt }) {
+export const ArrowSwap =({ width = 1.5, className, alt }) => {
   return (
     <svg
       width="24"
